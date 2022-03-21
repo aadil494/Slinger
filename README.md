@@ -1,2 +1,3 @@
 # Slinger
-###### A PHP MVC Framework
+###### A PHP MVC Framework built from scratch
+
